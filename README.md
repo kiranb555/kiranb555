@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Kiran b, FrontEnd developer from <img src="https://cdn-icons.flaticon.com/png/512/706/premium/706256.png?token=exp=1654227840~hmac=dfed638ef3c9a9a7737ac20460a2a606" width="13"/> <b>Bangalore, India</b>
+<p>Welcome to my page! </br> I'm Kiran b, FrontEnd developer from <img src="[https://cdn-icons.flaticon.com/png/512/706/premium/706256.png?token=exp=1654227840~hmac=dfed638ef3c9a9a7737ac20460a2a606](https://cdn-icons-png.flaticon.com/512/3336/3336025.png)" width="20"/> <b>Bangalore, India</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
